@@ -31,6 +31,7 @@
   {"name": "HBO Hits", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd"},
   {"name": "HBO Family", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"},
   {"name": "HBO Signature", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd"},
+  {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"},
   {"name": "AXN", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd"},
   {"name": "Thrill", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd"},
   {"name": "Krimizonen", "category": "Movies", "url": "https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8"},
