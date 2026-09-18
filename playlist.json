@@ -12,7 +12,7 @@
   {"name": "TV One", "category": "News", "url": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "Kompas TV", "category": "News", "url": "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "iNews", "category": "News", "url": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd"},
-  {"name": "CNN Indonesia", "category": "News", "url": "https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w2057814115_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0OTQwMTQ0ODEmd293emF0b2tlbmhhc2g9UEFNSGpLMWkxS2tPZERJdWc2RW5vUHhkYmRVb1c1UjFPYloyNXVscmRzUT0=.m3u8"},
+  {"name": "CNN Indonesia", "category": "News", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"},
   {"name": "CNBC Indonesia", "category": "News", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8"},
   {"name": "MDTV", "category": "Entertainment", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"},
   
