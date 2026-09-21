@@ -40,7 +40,7 @@
   {"name": "Rodja TV", "category": "Islam", "url": "https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8"},
   {"name": "Naajiya TV", "category": "Islam", "url": "https://www.naajiyatv.com/live/livestream.m3u8"},
   {"name": "Al Wafa Tarim", "category": "Islam", "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"},
-  {"name": "Salam TV", "category": "Islam", "url": "https://salamtv.siar.us/live/salamtv.m3u8"},
+  {"name": "Salam TV", "category": "Islam", "url": "https://live.salamtelevisi.com/hls/0/stream.m3u8"},
   {"name": "Al Iman TV", "category": "Islam", "url": "https://tv.aliman.id/aliman/live.m3u8"},
   {"name": "TV9 Nusantara", "category": "Entertainment", "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"},
   {"name": "TV Mu", "category": "Islam", "url": "https://e.siar.us/live/tvmu.m3u8"},
