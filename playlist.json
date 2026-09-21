@@ -261,4 +261,5 @@
   {"name": "Warner TV", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd"},
   {"name": "Max Reels", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "Discovery Channel", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd"}
+
 ]
