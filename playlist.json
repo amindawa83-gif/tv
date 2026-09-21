@@ -260,3 +260,4 @@
   {"name": "HBO Family", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"},
   {"name": "HBO Signature", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd"},
   {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"}
+]
