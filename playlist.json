@@ -22,21 +22,7 @@
   {"name": "Saudi Quran TV", "category": "Islam", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8"},
 
  
-  {"name": "CNN Indonesia", "category": "News", "url": "https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w2057814115_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0OTQwMTQ0ODEmd293emF0b2tlbmhhc2g9UEFNSGpLMWkxS2tPZERJdWc2RW5vUHhkYmRVb1c1UjFPYloyNXVscmRzUT0=.m3u8"},
-  {"name": "CNBC Indonesia", "category": "News", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8"},
-{"name": "MNC TV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"},
 
-   {"name": "GTV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd"},
-{"name": "Trans TV", "category": "Entertainment", "url": "https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8"},
-  {"name": "Trans 7", "category": "Entertainment", "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"}, 
-{"name": "RCTI", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/rctihd/rctihd-avc1_2500000=7-3277707030000000.mpd"},
-  {"name": "Rock Action", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd"},
-  {"name": "Rock Entertainment", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd"},
-  {"name": "HBO", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd"},
-  {"name": "HBO Hits", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd"},
-  {"name": "HBO Family", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"},
-  {"name": "HBO Signature", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd"},
-  {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"},
   {"name": "AXN", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd"},
   {"name": "Thrill", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd"},
   {"name": "Warner TV", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd"},
@@ -259,4 +245,18 @@
    {"name": "WIN Sports", "category": "Sports", "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tvpsport-freelivesportsemea/playlist.m3u8"}
   
   
-]
+  {"name": "CNN Indonesia", "category": "News", "url": "https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w2057814115_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0OTQwMTQ0ODEmd293emF0b2tlbmhhc2g9UEFNSGpLMWkxS2tPZERJdWc2RW5vUHhkYmRVb1c1UjFPYloyNXVscmRzUT0=.m3u8"},
+  {"name": "CNBC Indonesia", "category": "News", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8"},
+{"name": "MNC TV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"},
+
+   {"name": "GTV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd"},
+{"name": "Trans TV", "category": "Entertainment", "url": "https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8"},
+  {"name": "Trans 7", "category": "Entertainment", "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"}, 
+{"name": "RCTI", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/rctihd/rctihd-avc1_2500000=7-3277707030000000.mpd"},
+  {"name": "Rock Action", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd"},
+  {"name": "Rock Entertainment", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd"},
+  {"name": "HBO", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd"},
+  {"name": "HBO Hits", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd"},
+  {"name": "HBO Family", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"},
+  {"name": "HBO Signature", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd"},
+  {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"},
