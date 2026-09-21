@@ -14,7 +14,7 @@
   {"name": "RTV", "category": "Entertainment", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8"},
   {"name": "Nusantara TV", "category": "News", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8"},
   {"name": "BN Channel", "category": "News", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8"},
-  {"name": "Saudi Quran TV", "category": "Islam", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8"},
+  
   {"name": "AXN", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd"},
   {"name": "Thrill", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd"},
   {"name": "JAKTV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd"},
@@ -36,6 +36,7 @@
   {"name": "Sriwijaya TV", "category": "Entertainment", "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"},
   {"name": "Puja TV", "category": "Entertainment", "url": "https://pujatv.siar.us/live/pujatv.m3u8"},
   {"name": "Ahsan TV", "category": "Islam", "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"},
+  {"name": "Saudi Quran TV", "category": "Islam", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8"},
   {"name": "Rodja TV", "category": "Islam", "url": "https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8"},
   {"name": "Naajiya TV", "category": "Islam", "url": "https://www.naajiyatv.com/live/livestream.m3u8"},
   {"name": "Al Wafa Tarim", "category": "Islam", "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"},
