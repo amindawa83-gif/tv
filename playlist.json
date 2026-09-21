@@ -25,9 +25,7 @@
  
   {"name": "AXN", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd"},
   {"name": "Thrill", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd"},
-  {"name": "Warner TV", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd"},
-  {"name": "Max Reels", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd"},
-  {"name": "Discovery Channel", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd"},
+
   {"name": "JAKTV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "Banten TV", "category": "News", "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"},
 {"name": "DAAI TV", "category": "Islam", "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"}, 
@@ -259,5 +257,8 @@
   {"name": "HBO Hits", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd"},
   {"name": "HBO Family", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"},
   {"name": "HBO Signature", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd"},
-  {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"}
+  {"name": "Cinemax", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"},
+  {"name": "Warner TV", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd"},
+  {"name": "Max Reels", "category": "Movies", "url": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd"},
+  {"name": "Discovery Channel", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd"}
 ]
