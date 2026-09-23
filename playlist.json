@@ -131,6 +131,7 @@
   
   {"name": "Espn Deportes", "category": "Sports", "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8"},
    {"name": "ESPN Premium", "category": "Sports", "url": "https://7nyaler.streamhostingcdn.top/stream/54/index.m3u8"},
+   {"name": "Eurosports 1", "category": "Sports", "url": "http://cdntv.online/high/29ms68rva4/37.m3u8"},
    {"name": "FB Tv", "category": "Sports", "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1696000_sltur.m3u8"},
    {"name": "Fight Network", "category": "Sports", "url": "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"},
    {"name": "FIFA+ (Toffee Direct 1080p)", "category": "Sports", "url": "https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8"},
@@ -156,7 +157,7 @@
   {"name": "Real Madrid TV Eng", "category": "Sports", "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"},
  
   {"name": "S Sports", "category": "Sports", "url": "https://corestream.siteyaptim.live/s-sport/index.m3u8"},
-  {"name": "S Sport 2", "category": "Sports", "url": "https://7nyaler.streamhostingcdn.top/stream/52/index.m3u8"},
+ 
   {"name": "S Sports 2", "category": "Sports", "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8"},
  
   {"name": "Somoy TV (WC Feed)", "category": "Sports", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"},
