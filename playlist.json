@@ -152,7 +152,7 @@
  
   {"name": "N Sports", "category": "Sports", "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"},
   {"name": "Nova Sport 2 HD", "category": "Sports", "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd"},
-  
+  {"name": "Premier Sports 1", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTAxNzIwMTQ4Njg6Y2RubGl2ZXR2LnR2OjI4NmIyNWNlM2MzNzkzMmIuMWNmZDY0Y2UzNGIwNTY1ZDQ3OTZiN2VhMzcxMjAyNDgxMGM0OTYwOTk3YTgwZDNlMjgxZmMzYTVlZTI5M2QyZQ"},
   {"name": "Real Madrid TV", "category": "Sports", "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"},
   {"name": "Real Madrid TV Eng", "category": "Sports", "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"},
  
