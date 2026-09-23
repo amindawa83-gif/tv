@@ -166,6 +166,9 @@
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTAxNzIwMTY1MDU6Y2RubGl2ZXR2LnR2OjA1Y2U2YTVkZDE5YjZjZTAuNDgyMzFlYjI1NDk3MWUxNmFjN2NhMjM2MjkyODFlMGY5ZDIxMGYzN2M5YjUwMDg5MThiNmZkYzE2YTlmYmI2Ng"},
 {"name": "Sky Sports News", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc334/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzM0OjE3OTAxNzIwMTY3MDg6Y2RubGl2ZXR2LnR2OjdhZjM4NmJhZWEzMWM5YzMuODgwNTUwOTAzOTAwY2I0ZTY3YzM5N2Q1YmQ1YzQ4OGQ4MThhZmYzODA0OWQ2NjA4N2Y0OGNhN2RkOGU5ZGMzNg"}, 
 {"name": "Sky Sports Premier League", "category": "Sports", "url": "http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u"},
+{"name": "Sky Sports Racing", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTAxNzIwMTY5MjQ6Y2RubGl2ZXR2LnR2OjI0YjY2NGMzY2MzODNlOWUuNTk0MDk3NDUyZDE1MTdmZDVkMjAxNjBhMTNlYzQ0ZTFmZGU2YjlkMTEwMWYyZTVjNDBiMzkxOWIxMmIzZmQwMw"},
+{"name": "Sky Sports Tennis", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTAxNzIwMTcxMjM6Y2RubGl2ZXR2LnR2OjhkN2QwMjAxMTg3MjdlNWEuNTFmYzc2NmRhMjY3OTRiMjIwZDNjMzFmYjNhZDZhZGQ0NzQwNmNhMTNjNjE0N2YxYTQxYjA4NDY0NzIwMTM3Nw"},
+
 {"name": "S Sports 2", "category": "Sports", "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8"},
  
   {"name": "Somoy TV (WC Feed)", "category": "Sports", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"},
