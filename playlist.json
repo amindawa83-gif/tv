@@ -168,7 +168,8 @@
 {"name": "Sky Sports Racing", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTAxNzIwMTY5MjQ6Y2RubGl2ZXR2LnR2OjI0YjY2NGMzY2MzODNlOWUuNTk0MDk3NDUyZDE1MTdmZDVkMjAxNjBhMTNlYzQ0ZTFmZGU2YjlkMTEwMWYyZTVjNDBiMzkxOWIxMmIzZmQwMw"},
 {"name": "Sky Sports Tennis", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTAxNzIwMTcxMjM6Y2RubGl2ZXR2LnR2OjhkN2QwMjAxMTg3MjdlNWEuNTFmYzc2NmRhMjY3OTRiMjIwZDNjMzFmYjNhZDZhZGQ0NzQwNmNhMTNjNjE0N2YxYTQxYjA4NDY0NzIwMTM3Nw"},
 {"name": "Space City Home Network", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3OTAxNzIwMTc1NDU6Y2RubGl2ZXR2LnR2OmFiYzk2MTAzZGI5Yzc3YWQuZTVmYzVlZTk5NjY1YzE5YmRiYTc1YjQ4ZDU0NGIxOTZjYTczYjZlODExMGUyODgyZGUyZjA4NmZjY2EwNTM3Mg"},
-
+{"name": "="Sportsnet 360", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTAxNzIwMTgxNDc6Y2RubGl2ZXR2LnR2OjczZmE1ODhlNzVhZTk3NmQuZDgyNzU2NDIzYWQxMGE0YTc4Y2VjNDg2NzQ0MDBiZmQyODczNDNlMmEzYzhhZGZlNjg3ODgyOTM0MGMzNGI2Yw"},
+  
 {"name": "S Sports 2", "category": "Sports", "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8"},
  
   {"name": "Somoy TV (WC Feed)", "category": "Sports", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"},
