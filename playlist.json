@@ -169,6 +169,9 @@
 {"name": "Sky Sports Tennis", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTAxNzIwMTcxMjM6Y2RubGl2ZXR2LnR2OjhkN2QwMjAxMTg3MjdlNWEuNTFmYzc2NmRhMjY3OTRiMjIwZDNjMzFmYjNhZDZhZGQ0NzQwNmNhMTNjNjE0N2YxYTQxYjA4NDY0NzIwMTM3Nw"},
 {"name": "Space City Home Network", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJjOjE3OTAxNzIwMTc1NDU6Y2RubGl2ZXR2LnR2OmFiYzk2MTAzZGI5Yzc3YWQuZTVmYzVlZTk5NjY1YzE5YmRiYTc1YjQ4ZDU0NGIxOTZjYTczYjZlODExMGUyODgyZGUyZjA4NmZjY2EwNTM3Mg"},
 {"name": "Sportsnet 360", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTAxNzIwMTgxNDc6Y2RubGl2ZXR2LnR2OjczZmE1ODhlNzVhZTk3NmQuZDgyNzU2NDIzYWQxMGE0YTc4Y2VjNDg2NzQ0MDBiZmQyODczNDNlMmEzYzhhZGZlNjg3ODgyOTM0MGMzNGI2Yw"},
+ {"name": "Sportsnet East", "category": "Sports", "url": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTAxNzIwMTgzNTA6Y2RubGl2ZXR2LnR2OjkzYzIyMGUzY2JjZDQ3M2MuMWJhYjk5Nzg0ODg3MGYyZWE0OTQ5NmIyNWY2ODBkM2IwYmI4YTdlNjY2MWM2ZjVjYzdkMzY4ZGE3NzkzZDQ5Zg"}, 
+{"name": "Sportsnet New York", "category": "Sports", "url": "https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8"},
+
   
 {"name": "S Sports 2", "category": "Sports", "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8"},
  
