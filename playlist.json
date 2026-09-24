@@ -114,7 +114,7 @@
   {"name": "The Furious (2025)", "category": "Movies", "url": "https://stream.playcdn.de/playlist/6c3af6119025f823814ffcb9cccb179f/2/480.m3u8?x=1"},
   {"name": "Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns (2025)", "category": "Movies", "url": "https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1"},
    
-
+ {"name": "ACCDN", "category": "Sports", "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"},
   {"name": "ADO TV", "category": "Sports", "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"},
   {"name": "Al Iraqia Sport", "category": "Sports", "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"},
    {"name": "Arena Sport 1", "category": "Sports", "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8"},
