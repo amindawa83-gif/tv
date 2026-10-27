@@ -32,7 +32,7 @@
   {"name": "Dhoho TV", "category": "Entertainment", "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"},
   {"name": "DMI TV", "category": "Entertainment", "url": "https://tvstreamcast.com/tawaftv.m3u8"},
   {"name": "Duta TV", "category": "Entertainment", "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8"},
-  {"name": "JOWO", "category": "Entertainment", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h215/index.m3u8"},
+  {"name": "JOWO", "category": "Entertainment", "url": "https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo"},
   {"name": "RRI NET", "category": "News", "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"},
   {"name": "Efarina TV", "category": "Entertainment", "url": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"},
   {"name": "Sriwijaya TV", "category": "Entertainment", "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"},
