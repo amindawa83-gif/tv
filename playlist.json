@@ -1,6 +1,6 @@
 [
   {"name": "TVRI World", "category": "Entertainment", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8"},
-  {"name": "RCTI", "category": "Entertainment", "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"},
+  {"name": "RCTI", "category": "Entertainment", "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd?start=1793682600&end=5793702100"},
   {"name": "SCTV", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "Indosiar", "category": "Entertainment", "url": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd"},
   {"name": "Metro TV", "category": "News", "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8"},
